@@ -11,7 +11,9 @@
 *Telegram: @frai869*
 
 
-**Мой стек**
+>**Мой стек**
+<details>
+<summary>Развернуть:</summary>
 
 *Работа с GIT и GitHub*
 
@@ -24,3 +26,4 @@
 *Работа с базами данных PostgreSQL*
 
 *Работа с API сторонних сервисов*
+</details>
